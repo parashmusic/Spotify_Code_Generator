@@ -15,7 +15,7 @@ A sleek PyQt5 desktop application to search for Spotify tracks and generate scan
 ✨ Beautiful, minimal UI styled like Spotify
 
 
-![App Screenshot](./assets/interface.png)
+
 ![App Screenshot](./assets/interface1.png)
 🛠️ Tech Stack
 Python 3
